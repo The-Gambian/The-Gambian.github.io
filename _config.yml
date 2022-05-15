@@ -2,3 +2,5 @@ name: Malick Kah, Aspiring Business Analyst
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
+
+theme: jekyll-theme-architect
